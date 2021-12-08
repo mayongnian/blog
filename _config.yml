@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 title: YN's Den                          # the main title
 
-tagline: My personal blog.   # it will display as the sub-title
+tagline: 跬步千里 知行合一   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -43,7 +43,7 @@ social:
   email: yongnian@sina.cn             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/mayongnian       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
